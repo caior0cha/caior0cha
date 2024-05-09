@@ -2,7 +2,7 @@
 📒 Sou estudante de Análise e Desenvolvimento de sistemas<br>👀 Estou a procura de oportunidades na área de desenvolvimento<br>⚡ Desenvolvi projetos em PHP puro e PHP + Laravel<br>🖥️ Também desenvolvi projetos para Java e Java Web Services<br>📱 Meu objetivo de carreira é desenvolvimento mobile<br>✅ Conhecimentos gerais: <br>-PHP<br>-MySQL<br>-HTML<br>-CSS<br>-C++<br>-Java<br>
 
 ## 😎 Alguns projetos do meu portifólio:
-[Galeria em HTML](https://caior0cha.github.io/exemplo-galeria_html/)
+[Galeria em HTML](https://caior0cha.github.io/exemplo-galeria_html/)<br>
 [Mario Game em HTML](https://caior0cha.github.io/exemplo-game_html/)
 
 ## 🌐 Socials:
