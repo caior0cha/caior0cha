@@ -3,6 +3,7 @@
 
 ## 😎 Alguns projetos do meu portifólio:
 [Galeria em HTML](https://caior0cha.github.io/exemplo-galeria_html/)
+[Mario Game em HTML](https://caior0cha.github.io/exemplo-game_html/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caio_r0ocha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/caio-vinicius-rocha) 
