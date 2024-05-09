@@ -2,8 +2,9 @@
 📒 Sou estudante de Análise e Desenvolvimento de sistemas<br>👀 Estou a procura de oportunidades na área de desenvolvimento<br>⚡ Desenvolvi projetos em PHP puro e PHP + Laravel<br>🖥️ Também desenvolvi projetos para Java e Java Web Services<br>📱 Meu objetivo de carreira é desenvolvimento mobile<br>✅ Conhecimentos gerais: <br>-PHP<br>-MySQL<br>-HTML<br>-CSS<br>-C++<br>-Java<br>
 
 ## 😎 Alguns projetos do meu portifólio:
+[Página de Apresentação](https://caior0cha.github.io/apresentacao_HTML/)<br>
 [Galeria em HTML](https://caior0cha.github.io/exemplo-galeria_html/)<br>
-[Mario Game em HTML](https://caior0cha.github.io/exemplo-game_html/)
+[Mario Game em HTML](https://caior0cha.github.io/exemplo-game_html/)<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caio_r0ocha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/caio-vinicius-rocha) 
