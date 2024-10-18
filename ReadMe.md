@@ -1,5 +1,5 @@
 # 💫 About Me:
-📒 Sou estudante de Análise e Desenvolvimento de sistemas<br>👀 Estou a procura de oportunidades na área de desenvolvimento<br>⚡ Desenvolvi projetos em PHP puro e PHP + Laravel<br>🖥️ Também desenvolvi projetos para Java e Java Web Services<br>📱 Meu objetivo de carreira é desenvolvimento mobile<br>✅ Conhecimentos gerais: <br>-PHP<br>-MySQL<br>-HTML<br>-CSS<br>-C++<br>-Java<br><br>-Python<br><br>-Dart<br><br>-Flutter<br><br>-NodeJS<br>
+📒 Sou estudante de Análise e Desenvolvimento de sistemas<br>👀 Estou a procura de oportunidades na área de desenvolvimento<br>⚡ Desenvolvi projetos em PHP puro e PHP + Laravel<br>🖥️ Também desenvolvi projetos para Java e Java Web Services<br>📱 Meu objetivo de carreira é desenvolvimento mobile<br>✅ Conhecimentos gerais: <br>-PHP<br>-MySQL<br>-HTML<br>-CSS<br>-C++<br>-Java<br>-Python<br>-Dart<br>-Flutter<br>-NodeJS<br>
 
 ## 😎 Alguns projetos do meu portifólio:
 [Página de Apresentação](https://caior0cha.github.io/apresentacao_HTML/)<br>
