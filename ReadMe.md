@@ -1,9 +1,9 @@
 # 💫 About Me:
-📒 Sou estudante de Análise e Desenvolvimento de sistemas<br>👀 Estou a procura de oportunidades na área de desenvolvimento<br>⚡ Desenvolvi projetos em PHP puro e PHP + Laravel<br>🖥️ Também desenvolvi projetos para Java e Java Web Services<br>📱 Meu objetivo de carreira é desenvolvimento mobile<br>✅ Conhecimentos gerais: <br>-PHP<br>-MySQL<br>-HTML<br>-CSS<br>-C++<br>-Java<br>-Python<br>-Dart<br>-Flutter<br>-NodeJS<br>
+📒 Sou formado de Análise e Desenvolvimento de sistemas e pós graduado em Segurança da Informação<br>👀 Trabalho na área de TI <br>⚡ Atuo no desenvolvimento de landing pages personalizadas<br>🖥️ Também desenvolvo projetos de automação de integração de sistemas<br>✅ Conhecimentos gerais: <br>-PHP<br>-MySQL<br>-HTML<br>-CSS<br>-C++<br>-Java<br>-Python<br>-Dart<br>-Flutter<br>-NodeJS<br>
 
 ## 😎 Alguns projetos do meu portifólio:
-[Página de Apresentação](https://caior0cha.github.io/apresentacao_HTML/)<br>
-[Galeria em HTML](https://caior0cha.github.io/exemplo-galeria_html/)<br>
+[Landing Page Caio Rocha](https://caiorocha-online.vercel.app/)<br>
+[Landing Page Juliana Bina](https://juliana-bina-page.vercel.app/)<br>
 [Mario Game em HTML](https://caior0cha.github.io/exemplo-game_html/)<br>
 
 ## 🌐 Socials:
