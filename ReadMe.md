@@ -2,7 +2,7 @@
 📒 Sou formado de Análise e Desenvolvimento de sistemas e pós graduado em Segurança da Informação<br>👀 Trabalho na área de TI <br>⚡ Atuo no desenvolvimento de landing pages personalizadas<br>🖥️ Também desenvolvo projetos de automação e integração de sistemas<br>✅ Conhecimentos gerais: <br>-PHP<br>-SQL Server<br>-HTML<br>-CSS<br>-C++<br>-Java<br>-Python<br>-Dart<br>-Flutter<br>-NodeJS<br>-N8N<br>
 
 ## 😎 Alguns projetos do meu portifólio:
-[Landing Page Caio Rocha](https://caiorocha-online.vercel.app/)<br>
+[Landing Page Caio Rocha](https://caiorochaonline.rochaagency.cloud/)<br>
 [Landing Page Juliana Bina](https://juliana-bina-page.vercel.app/)<br>
 [Mario Game em HTML](https://caior0cha.github.io/exemplo-game_html/)<br>
 
