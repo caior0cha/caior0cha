@@ -1,5 +1,5 @@
 # 💫 About Me:
-📒 Sou formado de Análise e Desenvolvimento de sistemas e pós graduado em Segurança da Informação<br>👀 Trabalho na área de TI <br>⚡ Atuo no desenvolvimento de landing pages personalizadas<br>🖥️ Também desenvolvo projetos de automação e integração de sistemas<br>✅ Conhecimentos gerais: <br>-PHP<br>-SQL Server<br>-HTML<br>-CSS<br>-C++<br>-Java<br>-Python<br>-Dart<br>-Flutter<br>-NodeJS<br><br>-N8N<br>
+📒 Sou formado de Análise e Desenvolvimento de sistemas e pós graduado em Segurança da Informação<br>👀 Trabalho na área de TI <br>⚡ Atuo no desenvolvimento de landing pages personalizadas<br>🖥️ Também desenvolvo projetos de automação e integração de sistemas<br>✅ Conhecimentos gerais: <br>-PHP<br>-SQL Server<br>-HTML<br>-CSS<br>-C++<br>-Java<br>-Python<br>-Dart<br>-Flutter<br>-NodeJS<br>-N8N<br>
 
 ## 😎 Alguns projetos do meu portifólio:
 [Landing Page Caio Rocha](https://caiorocha-online.vercel.app/)<br>
