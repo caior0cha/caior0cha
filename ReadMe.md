@@ -4,6 +4,7 @@
 ## 😎 Alguns projetos do meu portifólio:
 [Landing Page Caio Rocha](https://caiorochaonline.rochaagency.cloud/)<br>
 [Landing Page Juliana Bina](https://juliana-bina-page.vercel.app/)<br>
+[Landing Page Modelo](https://modelo.rochaagency.cloud/)<br>
 [Mario Game em HTML](https://caior0cha.github.io/exemplo-game_html/)<br>
 
 ## 🌐 Socials:
